@@ -1,0 +1,14 @@
+{
+  "name": "ms-vanilla",
+  "version": "1.0.0",
+  "repository": "git+https://github.com/yoonminsang/ms-vanilla.git",
+  "contributors": [
+    "yoonminsang <apdlyooapdl@gmail.com> (https://ms3864.tistory.com/)"
+  ],
+  "main": "lib/index.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoonminsang/ms-vanilla/issues"
+  },
+  "homepage": "https://github.com/yoonminsang/ms-vanilla#readme"
+}
